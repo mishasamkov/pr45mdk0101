@@ -1,6 +1,7 @@
 ﻿using Api_samkov.Model;
 using System.Collections.Generic;
 using System;
+using Microsoft.EntityFrameworkCore;
 
 namespace Api_samkov.Context
 {
