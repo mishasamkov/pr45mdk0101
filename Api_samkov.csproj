@@ -12,9 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
+    <Folder Include="Context\Новая папка\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Model\" />
   </ItemGroup>
 
 </Project>
